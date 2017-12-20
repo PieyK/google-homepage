@@ -6,9 +6,33 @@
 }
 
 .container {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
+height: 100px;
+width: 400px;
+margin: 250px auto;
 }
+
+li{
+    float: right;
+    list-style-type: none;
+}
+
+a {
+    padding: 10px;
+    text-decoration: none;
+}
+
+div ul img{
+    border-radius: 45%;
+    
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    padding: 20px;
+}
+
+p{
+    text-align: center;
+}
+
